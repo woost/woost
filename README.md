@@ -6,4 +6,4 @@ This is the issue-tracker for Woost:
 
 Don't hesitate to repeort any issues or ask questions.
 
-The Woost Team
+Your Woost Team
